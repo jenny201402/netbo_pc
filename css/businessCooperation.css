@@ -1,0 +1,117 @@
+.backgroundTop{
+    width:100%;
+    height:574px;
+    background-color:#555555;
+}
+.backgroundImg{
+    width:100%;
+    height:253px;
+    background:url("../img/background.png");
+}
+.netBoCont{
+    width:100%;
+    height:415px;
+}
+.netBoCont>img{
+    width:365px;
+    height:189px;
+    margin-left: 406px;
+    margin-top:116px;
+}
+.aboutNETBO{
+    width:100%;
+    height:139px;
+}
+.aboutNETBOImg{
+    width:152px;
+    /*height:33px;*/
+    margin:0 auto;
+    margin-top: 125px;
+}
+/*.aboutNETBOCont{
+    width:871px;
+    height:auto;
+    margin:0 auto;
+}*/
+.aboutNETBOCont{
+    color:#3d3d3d;
+    line-height: 40px;
+    font-size:15px;
+    text-align: -webkit-center;
+    margin-top: 42px;
+    background-color:#ffffff;
+}
+.contactAbout{
+    margin-top: 252px;
+    margin-left: 521px;
+}
+.contactUs>span{
+    line-height:25px;
+}
+.contWay{
+    height:60px;
+    margin-top: 390px;
+}
+.contWay>li{
+    width:360px;
+    height:123px;
+    float:left;
+    margin-left: 9px;
+}
+.contWay>li>img{
+    float:left;
+    margin-right:23px;
+}
+.QQ{
+    /*margin-left:29px;*/
+}
+.contWay>li>span{
+    float:left;
+    color:#333;
+    font-size: 19px;
+    line-height: 70px;
+}
+.padColor{
+    width:1200px;
+    height:11px;
+    background-color: #e9e9e9;
+}
+.pageAll{
+    width:780px;
+    height:47px;
+    margin:0 auto;
+}
+.holdPiece>li{
+    margin-top:40px;
+    width:42px;
+    height:42px;
+    background-color:#e5e5e5;
+    border-radius:8px;
+    float:left;
+    margin-right:14px;
+    color:#3e3e3e;
+}
+.holdPiece{
+    width: 870px;
+    height: 47px;
+    margin-left: 13px;
+}
+.holdPiece>li>a{
+    /*color:#ffffff;*/
+    font-size:16px;
+    padding:16px;
+    line-height: 45px;
+    cursor:pointer;
+}
+.holdPiece>.firstPage{
+    background-color:#f2963f;
+}
+.firstPage>a{
+    color:#ffffff;
+}
+.firstPage>a:hover{
+    cursor:pointer;
+}
+a:hover{
+    cursor:pointer;
+}

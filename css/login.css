@@ -1,0 +1,97 @@
+/*.layui-layer-dialog{
+    width:639px;
+    height:434px;
+}*/
+.loginCon{
+    width:504px;
+    height:346px;
+}
+.formCon{
+    width:432px;
+    height:267px;
+
+    /*background-color:#fafafa;*/
+}
+.labelDiv>label>input{
+    /*margin-top:20px;*/
+    width:296px;
+    height:45px;
+    padding-left:9px;
+    background-color:#fafafa;
+    border: 1px solid #dddddd;
+    border-radius:8px;
+    float:right;
+    font-size:14px;
+}
+.formCon>label{
+    color:#444444;
+    font-size:15px;
+    /*line-height:78px;*/
+}
+.formCon>span{
+
+}
+.userLine{
+    float:left;
+    line-height: 92px;
+    color: #333;
+    font-size: 18px;
+}
+.formCon>.codeLine{
+    line-height:280px;
+}
+.labelDiv{
+    width:379px;
+    height:41px;
+    float:right;
+    margin-top:30px;
+}
+.codeNum{
+    width:105px;
+    height:47px;
+    padding-left:9px;
+    /*background-color:#c4c4c4;*/
+    /*border: 1px solid #dddddd;*/
+    /*border-radius:8px;*/
+    float:right;
+    font-size:14px;
+    margin-top:20px;
+    margin-left:6px;
+}
+.codeNum>img{
+    float:left;
+}
+.FormFix{
+    width:509px;
+    height:48px;
+}
+.failRes{
+    width:131px;
+    height:149px;
+    float:right;
+    margin-top:25px;
+    margin-right:60px;
+}
+.failRes>ul>li{
+    line-height: 40px;
+    margin-top: 30px;
+    font-size:15px;
+}
+.loginBtn>a>button{
+    width:377px;
+    height:46px;
+    background-color:#f9be20;
+    border-radius:10px;
+    border-style:none;
+    margin-left:120px;
+    font-size: 15px;
+    letter-spacing: 1px;
+    color: #ffff;
+}
+.loginBtn>a>button:hover{
+    cursor: pointer;
+    background-color:#d4a62a;
+}
+.failRes>ul>li{
+    list-style: none;
+}
